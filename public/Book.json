@@ -1,0 +1,90 @@
+[{
+  "id":1,
+  "title":"Computer Organization",
+  "author":"Carl Hamacher, Zvonko Vranesic, Safwat Zaky",
+  "price":300,
+  "image":"./BookStore/Book_1.png",
+  "description":"A foundational book that explains the basics of computer hardware, architecture, and system design."
+
+},
+{
+  "id":2,
+  "title":"Operating System Concepts",
+  "author":"Abraham Silberschatz, Peter B. Galvin, Greg Gagne",
+  "price":699,
+  "image":"/BookStore/Book_2.png",
+  "description":"it's a comprehensive guide on operating systems, covering topics like processes, memory, and file systems."
+
+},
+{
+  "id":3,
+  "title":"Digital Logic and Computer Design",
+  "author":"M. Morris Mano",
+  "price":699,
+  "image":"/BookStore/Book_3.png",
+  "description":"A classic introduction to digital logic circuits, including combinational and sequential circuits, and computer organization."
+
+},
+{
+  "id":4,
+  "title":"Computer Networks",
+  "author":"Andrew S. Tanenbaum, David J. Wetherall",
+  "price":736,
+  "image":"/BookStore/Book_4.png",
+  "description":"A complete guide on networking principles and protocols, with real-world examples and problem-solving techniques."
+
+},
+{
+  "id":5,
+  "title":"Data Communications and Networking",
+  "author":"Behrouz A. Forouzan",
+  "price":750,
+  "image":"/BookStore/Book_5.png",
+  "description":"A widely used book that introduces networking and data communication concepts, suitable for both beginners and professionals."
+
+},
+{
+  "id":6,
+  "title":"Software Engineering: A Practitioner's Approach",
+  "author":"Roger S. Pressman",
+  "price":950,
+  "image":"/BookStore/Book_6.png",
+  "description":"A top resource for software engineering, covering SDLC models, agile methods, and software project management."
+
+},
+{
+  "id":7,
+  "title":"Introduction to Algorithms",
+  "author":"Thoms H Cormen, Cliford Stein ",
+  "price":750,
+  "image":"/BookStore/Book_7.png",
+  "description":" A definitive guide to algorithms, covering topics from basic sorting to complex graph algorithms and dynamic programming."
+
+},
+{
+  "id":8,
+  "title":"Artificial Intelligence: A Modern Approach",
+  "author":"Stuart Russell, Peter Norvig",
+  "price":796,
+  "image":"/BookStore/Book_8.png",
+  "description":"A leading textbook on AI, covering topics such as search algorithms, machine learning, robotics, and natural language processing."
+
+},
+{
+  "id":9,
+  "title":"Database System Concepts",
+  "author":"Abraham Silberschatz, Henry F. Korth, S. Sudarshan",
+  "price":650,
+  "image":"/BookStore/Book_9.png",
+  "description":"An essential resource for understanding database design, SQL, normalization, and transaction management."
+
+},
+{
+  "id":10,
+  "title":"Computer Graphics with OpenGL",
+  "author":"Donald D. Hearn, M. Pauline Baker",
+  "price":650,
+  "image":"/BookStore/Book_10.png",
+  "description":" A practical book on computer graphics using OpenGL, covering topics such as 2D/3D modeling, transformations, and rendering."
+
+}]
